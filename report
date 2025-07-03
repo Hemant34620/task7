@@ -1,0 +1,48 @@
+Cybersecurity Internship – Task Report
+
+Student Name: hemant
+Internship Domain: Cybersecurity  
+Task Name: Browser Extension Audit (Microsoft Edge)  
+
+
+---
+
+Task Objective:
+To identify, review, and document all installed browser extensions on Microsoft Edge to ensure browser security and understand risks from third-party extensions.
+
+---
+
+Steps Performed:
+
+1. Opened the Edge Extensions Manager using:
+   URL: edge://extensions
+
+2. Reviewed the list of installed extensions:
+   - Volume Booster - Increase your sound
+   - Google Docs Offline
+
+3. For each extension:
+   - Clicked on "Details"
+   - Reviewed permissions
+   - Verified source (Edge or Chrome Web Store)
+
+4. Identified:
+   - Volume Booster: Not essential, asks for media control – flagged for review
+   - Google Docs Offline: Safe and required
+
+5. Removed unnecessary or unused extensions (if any).
+6. Restarted Edge browser to apply changes.
+7. Read about how malicious extensions can:
+   - Access personal data
+   - Track browsing activity
+   - Inject ads or spyware
+
+---
+
+Conclusion:
+
+- Only two extensions were found.
+- No high-risk extensions were detected, but one was flagged for potential review.
+- Gained understanding of how browser extensions work and how attackers can exploit them.
+- Learned the importance of minimal extension usage for better browser security.
+
